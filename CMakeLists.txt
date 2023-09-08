@@ -3,7 +3,7 @@
 ##
 
 # Set the name of the project and target:
-SET(TARGET "56_channel_flow_for_speedup_thesis")
+SET(TARGET "Channel_flow_NS")
 
 # Declare all source files the target consists of. Here, this is only
 # the one step-X.cc file, but as you expand your project you may wish
